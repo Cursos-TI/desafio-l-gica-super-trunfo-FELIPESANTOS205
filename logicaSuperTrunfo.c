@@ -92,7 +92,7 @@ int main() {
     printf("Digite o número da opção desejada: ");
     scanf("%d", &opcao);
 
-    // Comparação
+    // Comparação das Cartas
     printf("\nResultado da comparação:\n");
     switch(opcao) {
         case 1:
